@@ -7,5 +7,6 @@
   * Who is this project for?
   * What critical questions is the project asking?
   * What issues is it responding to?
+  * What does it make you think about?
   
 
