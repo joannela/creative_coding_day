@@ -1,5 +1,5 @@
 * [Disobedient Electronics](http://www.disobedientelectronics.com/)
-* [Urban Armour]()https://urbanarmor.org/
+* [Urban Armour](https://urbanarmor.org/)
 
 1. Have a look through these resources
 2. Discuss one of these projects
