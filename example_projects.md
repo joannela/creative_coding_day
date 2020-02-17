@@ -10,3 +10,4 @@
   * What does it make you think about?
   
 
+Discussion—think about how data is generated what it is used for; how we can use sensors to think differently about space; 
